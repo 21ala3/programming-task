@@ -6,7 +6,8 @@
 * [Additional note](#additional-note)
 
 #General info
-*This programming task is made for Motorola Solutions
+*This code was made for purposes of rectruitment for Motorola Solutions.
+*The code returns the length of 2 fence segments based on parameter input by the user. The code calculates the largest possible area of a rectangle from returned values.
 
 #Technologies
 Project was created with:
@@ -17,4 +18,4 @@ Project was created with:
 *To run this project, you need following libraries: iostream, algorithm, string, cmath, tuple
   
   #Additional note
-  *I started coding for practical reason - it helps with understanding today's world better. I'm still barely a beginner but I hope I will be able to develop my skills and use them in the future. 
+  *I started coding for practical reason - it helps with better understanding of today's world. I'm still a beginner but I hope I will be able to develop and improve my skills  in the further future. I'm enthustiastic about learning more about coding and I enjoy taking up new challenges.
