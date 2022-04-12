@@ -6,7 +6,7 @@
 * [Additional note](#additional-note)
 
 #General info#
-*This code was made for purposes of rectruitment for Motorola Solutions.
+*This code was made for purposes of recruitment for Motorola Solutions.
 *The code returns the length of 2 fence segments based on parameter input by the user. The code calculates the largest possible area of a rectangle from returned values.
 
 #Technologies
