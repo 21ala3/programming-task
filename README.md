@@ -14,7 +14,7 @@ Project was created with:
 * CLion-2021.3.4
 
 #Setup
-*To run this project, you need following libraries: <iostream>, <algorithm>, <string>, <cmath>, <tuple>
+*To run this project, you need following libraries: iostream, algorithm, string, cmath, tuple
   
   #Additional note
   *I started coding for practical reason - it helps with understanding today's world better. I'm still barely a beginner but I hope I will be able to develop my skills and use them in the future. 
