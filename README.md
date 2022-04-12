@@ -6,7 +6,7 @@
 * [Additional note](#additional-note)
 
 #General info
-This programming task is made for Motorola Solutions
+*This programming task is made for Motorola Solutions
 
 #Technologies
 Project was created with:
